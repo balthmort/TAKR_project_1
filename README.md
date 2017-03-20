@@ -1,6 +1,6 @@
-#TAKR - Projekt 1
+# TAKR - Projekt 1
 
-Zašifrování textového souboru (určen parametrem) s pomocí RSA nebo AES (přepínač)
-Aplikace nabídne možnost použít existující klíč nebo vytvoření nového (přepínač)
+Encryption and decryption od parametr set text file with RSA or AES.  
+It is possible to use existing key or generate new.  
 
-Používá PyCroptodomex (import Cryptodome)
+Uses PyCroptodomex (import Cryptodome)  
