@@ -5,10 +5,10 @@
 # Project:  TAKR project
 
 import sys
-from lib import param_parser
-from lib import compute_aes
-from lib import compute_rsa
-from lib import keys
+from my_lib import param_parser
+from my_lib import compute_aes
+from my_lib import compute_rsa
+from my_lib import keys
 
 if __name__ == "__main__":
     param = param_parser.ParseParams()
