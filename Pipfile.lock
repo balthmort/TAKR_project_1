@@ -1,0 +1,21 @@
+{
+    "_meta": {
+        "sources": [
+            {
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ],
+        "requires": {},
+        "hash": {
+            "sha256": "4571068494baf8cd72a6d8cd66f3e2fd3b0f9b549b8716c1b3a586b82876213d"
+        }
+    },
+    "default": {
+        "pycryptodomex": {
+            "hash": "sha256:921f042704f21d1284e2bb2546fab7f126a5c57f78ab99c6aa57795d342dbcd8",
+            "version": "==3.4.5"
+        }
+    },
+    "develop": {}
+}
